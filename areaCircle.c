@@ -14,5 +14,7 @@ void main()
 
     printf("Area of circle = %f", area_Circle);
 
+    printf("Hello");
+
 
 }
